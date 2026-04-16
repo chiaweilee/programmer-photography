@@ -1,0 +1,24 @@
+{
+  "name": "programmer-photography",
+  "version": "1.0.0",
+  "description": "VitePress documentation site for programmer-photography",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaweilee/programmer-photography.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiaweilee/programmer-photography/issues"
+  },
+  "homepage": "https://github.com/chiaweilee/programmer-photography#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
