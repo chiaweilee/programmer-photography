@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/programmer-photography/',
   title: 'Programmer Photography',
   description: 'Technical notes, guides, and blog posts about programmer photography.',
   themeConfig: {
